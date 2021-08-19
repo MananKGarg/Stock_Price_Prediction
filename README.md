@@ -29,9 +29,8 @@ Things i have learnt by completing this project:
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-* [Python 3.7](https://www.python.org/download/releases/3.7/) 
-* [NumPy](http://www.numpy.org/)
-* [pandas](http://pandas.pydata.org/)
-* [Keras](https://keras.io/)
-* [Tensor-flow](https://www.tensorflow.org)
-* [Jupyter Notebook](http://ipython.org/notebook.html)
+## Steps to execute the code
+
+```bash
+git clone https://github.com/MananKGarg/Stock_Price_Prediction
+```
