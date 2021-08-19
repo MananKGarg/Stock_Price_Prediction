@@ -26,9 +26,6 @@ Things i have learnt by completing this project:
 * How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.
 
 
-## Software and Libraries
-This project uses the following software and Python libraries:
-
 ## Steps to execute the code
 
 ```bash
