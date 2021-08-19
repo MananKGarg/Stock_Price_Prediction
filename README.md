@@ -32,5 +32,19 @@ This project uses the following software and Python libraries:
 ## Steps to execute the code
 
 ```bash
-git clone https://github.com/MananKGarg/Stock_Price_Prediction
+$ git clone https://github.com/MananKGarg/Stock_Price_Prediction
 ```
+
+```bash
+$ cd Stock_Price_Prediction
+```
+
+```bash
+$ pip3 install -r requirements.txt
+```
+
+```bash
+$ jupyter notebook
+```
+
+Now open the Stock_Price_Predictor.ipynb
